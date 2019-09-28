@@ -21,3 +21,27 @@ h3 {
 ul {
   list-style-type: square;
 }
+
+a {
+  color: green;
+}
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
