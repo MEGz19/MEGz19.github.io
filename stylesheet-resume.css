@@ -1,3 +1,9 @@
+body {
+  font-family: Arial;
+  background-image: url(textured-paper.png);
+}
+
 h3 {
   text-decoration: underline;
+  text-transform: uppercase;
 }
